@@ -1,4 +1,4 @@
-# Understanding Blockchain and Web Evolution
+# Introduction to Web 3.0
 
 ## What Is Blockchain Technology?
 
