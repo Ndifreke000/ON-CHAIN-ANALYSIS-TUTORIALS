@@ -106,6 +106,9 @@ If you'd like to contribute to this curriculum:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+![ChatGPT Image May 11, 2025, 07_03_34 PM](https://github.com/user-attachments/assets/ca7df3c4-79c2-4dee-bef6-0453b7959014)
+
+
 ---
 
 Start your journey as a Web 3 Analyst today! 🚀
